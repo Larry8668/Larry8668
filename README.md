@@ -1,16 +1,14 @@
 ## Hello there! 👋
 
-I'm **Leharaditya**, and this is my little corner of the internet. Feel free to explore and offer your valuable critiques.
+I'm **Leharaditya**, and this is my little corner of the internet. Feel free to explore and offer your valuable critiques. 🌐
 
 <hr/>
 
 ### About Me
 
-I'm a passionate Web, App, Game Dev from Bangalore with a love for Gaming 🎮 & Tech 💻.
+I'm a passionate Web 🕸️, App 📱, Game 👾 Dev from Bangalore, with a love for Gaming 🎮 & Tech 💻. When I'm not coding, you might find me exploring new games 🕹️ or diving into the latest tech trends 🌟.
 
-Let's connect and create amazing things together!
-
-<br/>
+Let's connect and create amazing things together! 🚀
 
 [![Steam](https://img.shields.io/badge/Steam-DefensiveChart-1B2838?style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561198452741155)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leharaditya-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leharaditya-k-892077252/)
@@ -46,6 +44,9 @@ Let's connect and create amazing things together!
 
 ### Tools and Platforms
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit)
+
+### Design and Version Control
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <hr/>
 
