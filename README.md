@@ -50,3 +50,38 @@ Let's connect and create amazing things together! 🚀
 
 <hr/>
 
+## 🎮 Check Out My Game on Itch.io! 🎮
+
+### The Chronicles of Bangalore : Nadaprabhu Kempegowda
+
+### Download Now!
+👉 [Click here to download - **The Chronicles of Bangalore : Nadaprabhu Kempegowda** on itch.io!](https://rahul4right.itch.io/the-chronicles-of-bangalore)
+
+### About the Game
+
+**Experience Bangalore through the eyes of its founder, Kempegowda!** 
+
+Step into the shoes of Kempegowda, the visionary founder of Bangalore, and embark on an immersive journey through the bustling city he brought to life. In this game, you’ll traverse historic landmarks, vibrant markets, and dynamic neighborhoods, all while experiencing the daily life and challenges of 16th-century Bangalore.
+
+As you explore, you'll encounter the triumphs and trials of city-building, gaining insight into the diverse traditions and rich history that shaped modern Bangalore. The game features immersive sound design that enhances the atmosphere, along with fun mini-games that add an engaging layer to the experience. 
+
+This unique blend of historical exploration, adventure gameplay, and interactive storytelling provides a profound connection to the city’s origins, culture, and enduring legacy, all wrapped in a compelling narrative.
+
+- **Genre**: Adventure, Puzzle, Narrative
+- **Platforms**: Android
+
+### Screenshots
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/761df20e-60ab-428c-81b2-03382af1ed93" alt="Main Menu" style="width: 500px; margin: 10px 0; border-radius: 5px;">
+    <img src="https://github.com/user-attachments/assets/28540bc5-326f-4a03-876a-1001170e7337" alt="Map" style="width: 500px; margin: 10px 0; border-radius: 5px;">
+</div>
+<br />
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/3c402e8b-4eff-4c2e-a979-1c562cfb3e23" alt="Narrative" style="width: 500px; margin: 10px 0; border-radius: 5px;">
+</div>
+
+<br />
+
+Feel free to leave feedback or share your thoughts! Your support means a lot to me. Thank you! 🙌
+
