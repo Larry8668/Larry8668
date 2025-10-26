@@ -12,11 +12,11 @@ Let's connect and create amazing things together! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leharaditya-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leharaditya-k-892077252/)
 [![CodePen](https://img.shields.io/badge/CodePen-larry8668-000000?style=for-the-badge&logo=codepen)](https://codepen.io/Larry8668)
-[![Replit](https://img.shields.io/badge/Replit-larry8668-667881?style=for-the-badge&logo=replit)](https://replit.com/@Larry8668)
 
 <hr/>
 
 [![An image of @larry8668's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/larry8668)](https://holopin.io/@larry8668)
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larry8668&theme=solarized_dark" />
 </div>
@@ -45,7 +45,7 @@ Let's connect and create amazing things together! 🚀
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit) ![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  ![ngrok](https://img.shields.io/badge/ngrok-00C78C?style=for-the-badge&logo=ngrok&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![OpenTofu](https://img.shields.io/badge/OpenTofu-7933FF?style=for-the-badge&logo=opentofu&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  ![ngrok](https://img.shields.io/badge/ngrok-00C78C?style=for-the-badge&logo=ngrok&logoColor=white)  ![Atlantis](https://img.shields.io/badge/Atlantis-000000?style=for-the-badge&logo=atlantis&logoColor=white)
 
 ### Game Development Tools
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-3A2A2A?style=for-the-badge&logo=aseprite&logoColor=white)
