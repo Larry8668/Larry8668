@@ -15,7 +15,10 @@ Let's connect and create amazing things together! 🚀
 
 <hr/>
 
-[![An image of @larry8668's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/larry8668)](https://holopin.io/@larry8668)
+<a href="https://holopin.io/@larry8668">
+  <img width="1389" height="437" alt="An image of @larry8668's Holopin badges, which is a link to view their full Holopin profile" src="https://github.com/user-attachments/assets/af6e3881-1c81-4b0b-915b-af9022c7a48d" />
+</a>
+
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larry8668&theme=solarized_dark" />
